@@ -1,0 +1,23 @@
+# Ambientes virtuais
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Configs locais
+.env
+*.log
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+
+# Arquivos de build temporários
+*.egg-info/
+dist/
+build/
+
